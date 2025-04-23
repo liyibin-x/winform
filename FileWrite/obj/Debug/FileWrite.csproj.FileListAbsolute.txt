@@ -1,0 +1,8 @@
+D:\c# work\kaohe\FileWrite\FileWrite\bin\Debug\FileWrite.exe
+D:\c# work\kaohe\FileWrite\FileWrite\bin\Debug\FileWrite.pdb
+D:\c# work\kaohe\FileWrite\FileWrite\obj\Debug\FileWrite.csprojResolveAssemblyReference.cache
+D:\c# work\kaohe\FileWrite\FileWrite\obj\Debug\FileWrite.Form1.resources
+D:\c# work\kaohe\FileWrite\FileWrite\obj\Debug\FileWrite.Properties.Resources.resources
+D:\c# work\kaohe\FileWrite\FileWrite\obj\Debug\FileWrite.csproj.GenerateResource.Cache
+D:\c# work\kaohe\FileWrite\FileWrite\obj\Debug\FileWrite.exe
+D:\c# work\kaohe\FileWrite\FileWrite\obj\Debug\FileWrite.pdb
